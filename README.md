@@ -1,2 +1,1 @@
-*React+Vite*
-Full stack Project
+# 🚀 Full Stack Project with React + Vite
