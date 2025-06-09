@@ -2,7 +2,7 @@
 
 A smart and intuitive travel planning app built with **React + Vite**, enhanced by **Gemini AI** and the **Google Maps API**.
 
-This powerful tool helps users create personalized travel itineraries with:
+This powerful application helps users create personalized travel itineraries with:
 
 - 🧠 **AI-powered suggestions** for destinations, activities, and accommodations  
 - 🗺️ **Interactive route mapping** with real-time data from Google Maps  
